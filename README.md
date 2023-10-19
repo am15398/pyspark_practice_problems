@@ -6,5 +6,5 @@ please connect on linkedin :[linkedin](https://www.linkedin.com/in/ayush-maurya4
 
 [Ankit Bansal Complex SQL Query 1 | Derive Points table for ICC tournament](https://github.com/am15398/pyspark_practice_problems/blob/main/1.%20Derive%20Points%20table%20for%20ICC%20tournament.ipynb){:target="_blank"}
 
-[OpenAI](https://www.openai.com/){:target="_blank"}
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 
