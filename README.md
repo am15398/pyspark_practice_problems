@@ -29,4 +29,6 @@ please connect on linkedin :[linkedin](https://www.linkedin.com/in/ayush-maurya4
 
 - [Data Science SQL Interview Question | Recommendation System | Complex SQL 13](https://github.com/am15398/pyspark_practice_problems/blob/main/10.%20Complex%20SQL.ipynb)
 
+- [ Amazon Prime Subscription Rate SQL Logic | Amazon Music | Complex SQL 14](https://github.com/am15398/pyspark_practice_problems/blob/main/11%20.%20Complex%20SQL.ipynb)
+
 
