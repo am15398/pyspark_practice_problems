@@ -31,4 +31,6 @@ please connect on linkedin :[linkedin](https://www.linkedin.com/in/ayush-maurya4
 
 - [ Amazon Prime Subscription Rate SQL Logic | Amazon Music | Complex SQL 14](https://github.com/am15398/pyspark_practice_problems/blob/main/11%20.%20Complex%20SQL.ipynb)
 
+- [Customer Retention and Churn Analysis (Part 1/2) | SQL Interview Question Product](https://github.com/am15398/pyspark_practice_problems/blob/main/12%20.%20Complex%20SQL.ipynb)
+
 
